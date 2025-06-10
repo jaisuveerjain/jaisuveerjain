@@ -1,9 +1,4 @@
-# Hey there! 👋 I'm Jai Suveer Jain
-
-> * DevOps | AI Explorer | Data Analyst | Gadget Head *  
-> 📍 Berlin, Germany 🇩🇪
-
-## 🚀 What I'm All About
+# Hey there! 👋 I'm Jai 
 
 I'm a **Tech Enthusiast** with 3+ years of hands-on experience in DevOps Engineering and 🎓 Masters in Data Analytics turning infrastructure chaos into cloud poetry. Constantly diving deep into the exciting world of **AI/ML models** and **data analytics**.
 
