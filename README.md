@@ -5,7 +5,7 @@
 
 ## 🚀 What I'm All About
 
-I'm a **Tech Enthusiast** with 3+ years of hands-on experience in DevOps Engineering and 🎓 Masters in Data Analytics turning infrastructure chaos into cloud poetry. Constantly diving deep into the exciting world of **AI/ML models** and **data analytics** while keeping my containerized apps happy.
+I'm a **Tech Enthusiast** with 3+ years of hands-on experience in DevOps Engineering and 🎓 Masters in Data Analytics turning infrastructure chaos into cloud poetry. Constantly diving deep into the exciting world of **AI/ML models** and **data analytics**.
 
 ## 🌍 Global Experience
 
@@ -24,7 +24,7 @@ I'm a **Tech Enthusiast** with 3+ years of hands-on experience in DevOps Enginee
 🐍  Python | SQL | Statistical Modeling
 ```
 
-## 🔥 Fun Facts
+## 🔥 More Things
 
 - 🏆 Won "Futuristic Employee" award for digital transformation excellence
 - 🤝 Love collaborating with cross-cultural teams
@@ -33,4 +33,4 @@ I'm a **Tech Enthusiast** with 3+ years of hands-on experience in DevOps Enginee
 ## 📬 Let's Connect!
 
 **Email:** jaisuveerjain@web.de  
-**LinkedIn:** [jaisuveerjain](https://linkedin.com/in/jaisuveerjain)  
+**LinkedIn:** [jaisuveerjain](https://linkedin.com/in/jai-suveer-jain)  
