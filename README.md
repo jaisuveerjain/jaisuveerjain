@@ -1,12 +1,12 @@
 # Hey there! 👋 I'm Jai 
 
-I'm a **Tech Enthusiast** with 3+ years of hands-on experience in DevOps Engineering and 🎓 Masters in Data Analytics turning infrastructure chaos into cloud poetry. Constantly diving deep into the exciting world of **AI/ML models** and **data analytics**.
+I'm a **Tech Enthusiast** workig as a DevOps Engineering and have 🎓 Masters in Data Analytics. I turn infrastructure chaos into cloud poetry. Constantly diving deep into the exciting world of **AI/ML models** and **data analytics**.
 
 ## 🌍 Global Experience
 
 **🇮🇳 India (2020-2024):** Started my journey at Tecnotree Corporation, mastering cloud migrations and telecom infrastructure  
 **🇳🇬 Nigeria (Project Deployment 2022-2023):** On-ground deployment for MTN's digital transformation  
-**🇩🇪 Germany (2024-Present):** Expanding horizons with AI/ML studies and seeking new DevOps challenges
+**🇩🇪 Germany (2024-Present):** Expanding horizons with AI/ML studies.
 
 ### 🛠️ My Tech Arsenal
 
