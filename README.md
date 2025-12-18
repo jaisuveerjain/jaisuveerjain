@@ -27,5 +27,5 @@ I'm a **Tech Enthusiast** workig as a DevOps Engineering and have 🎓 Masters i
 
 ## 📬 Let's Connect!
 
-**Email:** jaisuveerjain@web.de  
+**Email:** jaisuveerjain3107@gmail.com  
 **LinkedIn:** [jaisuveerjain](https://linkedin.com/in/jai-suveer-jain)  
